@@ -8,6 +8,7 @@ __pycache__/
 
 # my filesystems
 class/
+backend/
 
 # Distribution / packaging
 .Python
